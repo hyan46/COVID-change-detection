@@ -1,0 +1,3 @@
+[submodule "GOALS-Segmentation"]
+	path = GOALS-Segmentation
+	url = git@github.com:hyan46/GOALS-Segmentation.git
